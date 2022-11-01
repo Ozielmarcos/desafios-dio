@@ -1,2 +1,15 @@
 #Orange Tech
 
+## Declarando variáveis:
+
+Let = variáveis que podem receber vários valores
+
+Const = variável com valor imutável
+
+Console.log() = usado para imprimir algo na tela, ex: console.log("imprima algo");
+
+console.log(variavel.tofixed(2)); quando precisar deixar 2 casas decimais aparecendo.
+
+Foi visto a "função" Math.pow, que é uma maneira de calcular expressões (ao quadradro), ex: Math.pow(altura, 2);
+que é o mesmo que (altura * altura);
+
